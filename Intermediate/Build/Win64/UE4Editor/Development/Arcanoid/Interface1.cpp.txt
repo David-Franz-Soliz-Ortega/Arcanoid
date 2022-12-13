@@ -1,0 +1,3 @@
+C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+C:\Unreal projects\Arcanoid\Source\Arcanoid\Interface1.h
+C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Interface1.generated.h

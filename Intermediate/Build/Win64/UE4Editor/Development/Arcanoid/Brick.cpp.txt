@@ -1,0 +1,9 @@
+C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+C:\Unreal projects\Arcanoid\Source\Arcanoid\Brick.h
+C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Brick.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Unreal projects\Arcanoid\Source\Arcanoid\Ball.h
+C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Ball.generated.h

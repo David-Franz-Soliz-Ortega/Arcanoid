@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arcanoid-0520.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\ArcanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Arcanoid.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\ArcanoidGameModeBase.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Ball.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Paddle.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\PaddlePlayerController.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Arcanoid.init.gen.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\ArcanoidGameModeBase.gen.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Ball.gen.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Paddle.gen.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\PaddlePlayerController.gen.cpp.obj"
+"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Default.rc2.res"
+/OUT:"C:\Unreal projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\UE4Editor-Arcanoid-0520.lib"
